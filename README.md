@@ -75,7 +75,7 @@ developers of new geo-spatial algorithms.
 ### Conda Installation
 
 Conda installation is recommended. To install *Pyoints* with
-[Conda](https://conda.io/docs/user-guide/getting-started.html) run:
+[Conda](https://conda.io/docs/user-yguide/getting-started.html) run:
 
 ```
 conda install -c laempy pyoints
